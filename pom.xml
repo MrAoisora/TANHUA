@@ -116,6 +116,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+<!--        添加测试类依赖-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>

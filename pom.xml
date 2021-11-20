@@ -122,6 +122,7 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+<!--        添加lombok依赖-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>

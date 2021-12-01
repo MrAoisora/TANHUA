@@ -12,5 +12,6 @@
         <module>tanhua-commos</module>
         <module>tanhua-server</module>
         <module>tanhua-dubbo</module>
+        <module>tanhua-domain</module>
     </modules>
 </project>
